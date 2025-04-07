@@ -1,0 +1,145 @@
+{
+  "cookies": [
+    {
+      "name": "JSESSIONID",
+      "value": "A0E7F195A2A047A853C8376E697F559B",
+      "domain": "www.yellowpages.ca",
+      "path": "/ajax",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "yp.theme",
+      "value": "yellowpages",
+      "domain": "www.yellowpages.ca",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "RJSR.VLvVOBGArP9zQRlwJv.VlWXTjvpnR31ic_aZi8-1744005686-1.0.1.1-bQAd86uu15yi3J8zynBddCxHrAfJHMmIWtpnzmAgB3foA5._UkOjYB3to6FPR8_fqRwvHAVtcJ6Loeypv_8D5AK.W2rAO8buyx53Ep05VEA",
+      "domain": ".cookielaw.org",
+      "path": "/",
+      "expires": 1744007487.666471,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ga_cid",
+      "value": "999.999845523130",
+      "domain": ".yellowpages.ca",
+      "path": "/",
+      "expires": 1744007488,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2025-04-07T06:01:28.579Z",
+      "domain": ".yellowpages.ca",
+      "path": "/",
+      "expires": 1775541688,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.468563541.1744005688",
+      "domain": ".yellowpages.ca",
+      "path": "/",
+      "expires": 1778565688.58208,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1365468520.1744005689",
+      "domain": ".yellowpages.ca",
+      "path": "/",
+      "expires": 1751781688,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_WC7YVRLFQD",
+      "value": "GS1.1.1744005688.1.1.1744005688.60.0.0",
+      "domain": ".yellowpages.ca",
+      "path": "/",
+      "expires": 1778565688.606964,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Mon+Apr+07+2025+02%3A01%3A28+GMT-0400+(Eastern+Daylight+Saving+Time)&version=202308.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=da7bd3aa-9398-46d6-866d-fe0442e4256e&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1",
+      "domain": ".yellowpages.ca",
+      "path": "/",
+      "expires": 1775541688,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "85005EC052418568B529F5DB6107EC85",
+      "domain": "www.yellowpages.ca",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "yp.analytics",
+      "value": "%7B%22id%22%3A%22c71549bd-a855-4121-87fe-34aceb64828e%22%7D",
+      "domain": ".yellowpages.ca",
+      "path": "/",
+      "expires": 1744007492.20262,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "yp.ssa",
+      "value": "%7B%22id%22%3A%221744005691076%22%7D",
+      "domain": ".yellowpages.ca",
+      "path": "/",
+      "expires": 1744007492.202656,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "yp.prefs",
+      "value": "%7B%22po%22%3Atrue%2C%22rws%22%3A%5B%5D%2C%22rwtsm%22%3A%7B%7D%2C%22ts%22%3A1744005691551%7D",
+      "domain": ".yellowpages.ca",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "yp.survey",
+      "value": "%7B%22page_type%22%3A%22page_type_home%22%2C%22traffic%22%3A%22traffic_internal%22%2C%22loggedin%22%3A%22loggedin_false%22%7D",
+      "domain": ".yellowpages.ca",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
